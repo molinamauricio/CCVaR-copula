@@ -33,7 +33,7 @@ copula-based VaR and CVaR for comparison.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/mcopula.git
+git clone https://github.com/molinamauricio/mcopula.git
 cd mcopula
 pip install -r requirements.txt
 ```
