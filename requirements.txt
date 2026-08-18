@@ -1,0 +1,9 @@
+joblib
+matplotlib
+mpmath
+numpy
+pandas
+scipy
+seaborn
+statsmodels
+tqdm
